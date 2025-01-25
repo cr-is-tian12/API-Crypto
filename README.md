@@ -1,4 +1,6 @@
-This project is made with the Cryptocompare API
+# This project is made with the Cryptocompare API
+
+<br>
 
 ![Demo Cripto](src/assets/cripto.gif)
 
