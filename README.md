@@ -1,3 +1,5 @@
+This project is made with the Cryptocompare API
+
 ![Demo Cripto](src/assets/cripto.gif)
 
 # Vue 3 + Vite
