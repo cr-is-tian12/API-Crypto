@@ -10,7 +10,7 @@
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Vue 3**
+- **Vue 3 + Vite**
 
 # Vue 3 + Vite
 
