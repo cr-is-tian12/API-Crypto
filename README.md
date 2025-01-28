@@ -1,5 +1,13 @@
 # This project is made with the Cryptocompare API
 
+This project uses the CryptoCompare API to obtain and display real-time data on cryptocurrencies. CryptoCompare provides detailed information on the price, volume, market capitalization, and other key indicators of various cryptocurrencies (ENG) <br>
+Este proyecto utiliza la API CryptoCompare para obtener y mostrar datos en tiempo real sobre criptomonedas. CryptoCompare proporciona información detallada sobre el precio, el volumen, la capitalización de mercado y otros indicadores clave de varias criptomonedas (ESP)
+
+Funcionalidades
+* Obtención de datos en tiempo real: Consulta el precio actualizado de las criptomonedas más populares.
+* Historial de precios: Accede a información histórica sobre el valor de las criptomonedas durante diferentes períodos.
+
+
 <br>
 
 ![Demo Cripto](src/assets/cripto.gif)
@@ -11,6 +19,9 @@
 - **CSS3**
 - **JavaScript**
 - **Vue 3 + Vite**
+
+Derechos de autor
+Los derechos de autor y propiedad intelectual de los datos proporcionados por la API de CryptoCompare pertenecen a __CryptoCompare__. Este proyecto no reclama derechos sobre dichos datos, solo utiliza la API para obtener y mostrar la información proporcionada por la plataforma.
 
 # Vue 3 + Vite
 
