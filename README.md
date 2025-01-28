@@ -20,7 +20,7 @@ Funcionalidades
 - **JavaScript**
 - **Vue 3 + Vite**
 
-Derechos de autor
+# __Derechos de autor CryptoCompare__ <br>
 Los derechos de autor y propiedad intelectual de los datos proporcionados por la API de CryptoCompare pertenecen a __CryptoCompare__. Este proyecto no reclama derechos sobre dichos datos, solo utiliza la API para obtener y mostrar la información proporcionada por la plataforma.
 
 # Vue 3 + Vite
